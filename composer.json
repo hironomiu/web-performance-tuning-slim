@@ -1,0 +1,10 @@
+{
+    "require":{
+        "slim/slim":"*",
+        "slim/views":"*",
+        "twig/twig": "*"
+    },
+    "autoload":{
+        "psr-0":{"":"src"}
+    }
+}

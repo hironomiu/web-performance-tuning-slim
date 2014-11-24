@@ -1,0 +1,7 @@
+<?php
+$host = 'localhost';
+$memcachedConfig['port'] = 11211;
+$mysqldConfig['database'] = 'test';
+$mysqldConfig['user'] = 'root';
+$mysqldConfig['password'] = 'vagrant';
+
